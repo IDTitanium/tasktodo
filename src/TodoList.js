@@ -18,6 +18,7 @@ class TodoList extends Component {
             <button type="submit"> Add Task </button>
           </form>
         </div>
+        <a href="tel:2348092992048">Contact the dev!</a>
       </div>
     )
   }
